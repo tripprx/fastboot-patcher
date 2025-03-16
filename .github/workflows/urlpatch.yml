@@ -5,7 +5,7 @@ on:
     inputs:
       image_url:
         description: 'Recovery Image URL'
-        default: 'https://use07.thegood.cloud/f/7120710'
+        default: 'https://limewire.com/d/d52d493c-b8ec-40c8-adae-96fe475d17b6#c3uGPPE4f3rg0TsQuWJNBD6y4AYntL73ZZhm8qhKJXs'
         required: true
         type: string
 
